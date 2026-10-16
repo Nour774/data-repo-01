@@ -1,0 +1,16 @@
+{
+  "description": "Long test description for Moonlit Archive. This text is stored in the separate details file, not in the search index.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The First Moon",
+      "text": "This is sample chapter text for local API testing.",
+      "info": "Fixture chapter 1"
+    },
+    {
+      "n": 2,
+      "title": "The Locked Door",
+      "text": "The investigator finds a sealed door beneath the archive."
+    }
+  ]
+}
