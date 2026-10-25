@@ -7,6 +7,13 @@
       "ids": [],
       "p": 1,
       "info": "Fixture ch 1"
+    },
+    {
+      "n": 2,
+      "title": "The First Moon",
+      "ids": [],
+      "p": 0,
+      "info": "Fixture ch 2"
     }
   ]
 }
