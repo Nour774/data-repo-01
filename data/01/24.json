@@ -1,1 +1,12 @@
-{"description":"Long test description for Moonlit Archive. This text is stored in the separate details file, not in the search index."}
+{
+  "description": "Long test description for Moonlit Archive. This text is stored in the separate details file, not in the search index.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The First Moon",
+      "ids": [],
+      "p": 1,
+      "info": "Fixture ch 1"
+    }
+  ]
+}
