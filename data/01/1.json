@@ -1,1 +1,41 @@
-{"description":"Long test description for Moonlit Archive. This text is stored in the separate details file, not in the search index.","chapters":[{"n":1,"title":"The First Moon","ids":[],"p":1,"info":"Fixture ch 1"},{"n":2,"title":"The Locked Door","ids":[]},{"n":3,"title":"The First Moon","ids":[],"p":1,"info":"Fixture ch 1"}]}
+{
+  "description": "Long test description for Moonlit Archive. This text is stored in the separate details file, not in the search index.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The First Moon",
+      "ids": [],
+      "p": 1,
+      "info": "Fixture ch 1"
+    },
+    {
+      "n": 2,
+      "title": "The Locked Door",
+      "ids": []
+    },
+    {
+      "n": 3,
+      "title": "The First Moon",
+      "ids": [],
+      "p": 1,
+      "info": "Fixture ch 1"
+    },
+    {
+      "n": 4,
+      "title": "chapter 4",
+      "ids": [
+        3,
+        4,
+        5
+      ],
+      "_ids": [
+        "AgACAgQAAxUHat54jlNVaIhhJ6vXwtEm9vQQRP8AAhIRaxuncPBSjT8Q2EmT0MsBAAMCAAN3AAM9BA",
+        "AgACAgQAAxUHat54jkWI_AFWnrrNZbCajokZ9BMAAhARaxuncPBS4N3NC4SQLyEBAAMCAAN4AAM9BA",
+        "AgACAgQAAxUHat54jjNDPbDTSuy1y79mdFwmxZYAAhERaxuncPBSVrVnHHPF_1sBAAMCAAN3AAM9BA"
+      ],
+      "chat_id": "-1004292812732",
+      "p": 0,
+      "info": "test"
+    }
+  ]
+}
